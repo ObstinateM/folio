@@ -2,7 +2,7 @@
     padding-top: 250px;
 }
 
-.prestitle{
+.prestitle {
     padding-top: 2em;
     font-family: Harlow Solid;
     font-size: 38px;  
@@ -22,12 +22,26 @@ a {
     text-decoration: none
 }
 
-h1{
+h1 {
     color:#000;
 }
 
-a:link 
-{ 
+a:link { 
     text-decoration:none; 
     color:#000;
+}
+
+@font-face {
+    font-family: Century Gothic;
+    src: url(Gothic.ttf);
+}
+
+@font-face {
+    font-family: Harlow Solid;
+    src: url(HarlowSolidPlain.otf);
+}
+
+@font-face {
+    font-family: Nirmala UI;
+    src: url(Nimala.ttf);
 }
