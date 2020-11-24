@@ -33,15 +33,15 @@ a:link {
 
 @font-face {
     font-family: 'Century Gothic';
-    src: url(Gothic.ttf);
+    src: url("fonts/Gothic.ttf");
 }
 
 @font-face {
     font-family: 'Harlow Solid';
-    src: url(HarlowSolidPlain.otf);
+    src: url("fonts/HarlowSolidPlain.otf");
 }
 
 @font-face {
     font-family: 'Nirmala UI';
-    src: url(Nimala.ttf);
+    src: url("fonts/Nimala.ttf");
 }
