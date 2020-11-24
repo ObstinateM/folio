@@ -1,0 +1,33 @@
+.fixdupres {
+    padding-top: 250px;
+}
+
+.prestitle{
+    padding-top: 2em;
+    font-family: Harlow Solid;
+    font-size: 38px;  
+}
+
+@media (max-width:767px) {
+    .fixdupres {
+        padding-top: 20px;
+    }
+    .prestitle{
+        padding-top: 0px;
+    }
+  }
+
+a {
+    outline: none;
+    text-decoration: none
+}
+
+h1{
+    color:#000;
+}
+
+a:link 
+{ 
+    text-decoration:none; 
+    color:#000;
+}
