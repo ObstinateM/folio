@@ -32,16 +32,16 @@ a:link {
 }
 
 @font-face {
-    font-family: Century Gothic;
+    font-family: 'Century Gothic';
     src: url(Gothic.ttf);
 }
 
 @font-face {
-    font-family: Harlow Solid;
+    font-family: 'Harlow Solid';
     src: url(HarlowSolidPlain.otf);
 }
 
 @font-face {
-    font-family: Nirmala UI;
+    font-family: 'Nirmala UI';
     src: url(Nimala.ttf);
 }
