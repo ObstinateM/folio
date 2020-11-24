@@ -32,13 +32,21 @@ a:link {
 }
 
 @font-face {
-    font-family: 'Century Gothic';
-    src: url("fonts/Gothic.ttf");
+    font-family: 'century_gothicregular';
+    src: url('gothic-webfont.woff2') format('woff2'),
+         url('gothic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 @font-face {
-    font-family: 'Harlow Solid';
-    src: url("fonts/HarlowSolidPlain.otf");
+    font-family: 'harlow_solidplain';
+    src: url('harlowsolidplain-webfont.woff2') format('woff2'),
+         url('harlowsolidplain-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 @font-face {
