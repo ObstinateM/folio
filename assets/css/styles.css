@@ -32,18 +32,17 @@ a:link {
 }
 
 @font-face {
-    font-family: 'century_gothicregular';
-    src: url('gothic-webfont.woff2') format('woff2'),
-         url('gothic-webfont.woff') format('woff');
+    font-family: 'Century Gothic';
+    src: url('../fonts/gothic-webfont.woff2') format('woff2'),
+         url('../fonts/gothic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 @font-face {
-    font-family: 'harlow_solidplain';
-    src: url('harlowsolidplain-webfont.woff2') format('woff2'),
-         url('harlowsolidplain-webfont.woff') format('woff');
+    font-family: 'Harlow Solid';
+    src: url('../fonts/harlow_solid_plain_regular-webfont.woff2') format('woff2'),
+         url('../fonts/harlow_solid_plain_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -51,5 +50,5 @@ a:link {
 
 @font-face {
     font-family: 'Nirmala UI';
-    src: url("fonts/Nimala.ttf");
+    src: url("../fonts/Nimala.ttf") format('truetype');
 }
